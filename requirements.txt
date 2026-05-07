@@ -1,5 +1,8 @@
-streamlit==1.32.0
-streamlit-drawable-canvas==0.9.4
-tensorflow==2.15.0
+streamlit>=1.28.0
+streamlit-drawable-canvas==0.9.3
+tensorflow-cpu==2.15.0
 Pillow==10.1.0
 numpy==1.24.3
+packaging
+altair>=2022.12.0
+pyarrow>=7.0
